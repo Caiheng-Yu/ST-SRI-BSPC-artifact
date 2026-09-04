@@ -1,0 +1,16 @@
+# ST-SRI Project Dependencies
+# Python 3.12+ | CUDA 12.8 (RTX 5090 D)
+#
+# PyTorch CUDA install (run first):
+#   pip install torch==2.7.1 torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu128
+#
+# Then install the rest:
+#   pip install -r requirements.txt
+
+numpy==2.4.3
+scipy==1.17.1
+matplotlib==3.10.8
+pandas==3.0.2
+scikit-learn==1.8.0
+shap==0.51.0
+captum==0.7.0

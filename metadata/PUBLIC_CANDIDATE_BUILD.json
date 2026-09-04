@@ -1,0 +1,32 @@
+{
+  "built_at": "2026-09-04T07:14:33.632499+00:00",
+  "candidate_version": "2026-09-04",
+  "code_license": "MIT",
+  "code_license_file": "LICENSE",
+  "code_license_scope": "original_code_only; excludes NinaPro data and restricted derived payloads",
+  "doi_or_permanent_identifier": null,
+  "excluded_categories": [
+    "raw NinaPro .mat recordings",
+    "processed E1/E2 signal arrays",
+    "model checkpoints",
+    "all result reports and derived tables",
+    "NPZ curve and attribution payloads",
+    "per-subject result directories",
+    "per-window manifests"
+  ],
+  "excluded_result_files": 2203,
+  "files_hashed": 58,
+  "human_payload_review_required": false,
+  "included_result_files": 0,
+  "ninapro_data_terms": "not_applicable_to_included_files; official_route_required_for_users",
+  "public_repository_url": null,
+  "release_scope": "original_code_only",
+  "release_tag": null,
+  "restricted_inputs_included": false,
+  "schema_version": "bspc-public-candidate-v1",
+  "source": "reproducibility_archive_20260901",
+  "source_repository_commit": "3f8e3d021ed041bee144e6c9206110cf1f5e7bcb",
+  "source_repository_status": "public_remote_repository_with_mit_license; separate_code_only_artifact_repository_pending",
+  "source_repository_url": "https://github.com/Caiheng-Yu/ST-SRI",
+  "status": "prepared_code_only_artifact_pending_deposit"
+}

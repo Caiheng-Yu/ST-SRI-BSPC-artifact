@@ -1,0 +1,14 @@
+# Keep the public repository code-only if local data or outputs are present.
+data/
+data_e2/
+results/
+checkpoints*/
+__pycache__/
+.pytest_cache/
+*.mat
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.pkl

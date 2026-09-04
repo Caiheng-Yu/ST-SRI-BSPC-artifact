@@ -1,0 +1,19 @@
+name: st-sri
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy=2.4.3
+  - scipy=1.17.1
+  - matplotlib=3.10.8
+  - pandas=3.0.2
+  - scikit-learn=1.8.0
+  - pytorch=2.7.1
+  - torchvision=0.22.1
+  - pytorch-cuda=12.8
+  - pip
+  - pip:
+      - shap==0.51.0
+      - captum==0.7.0

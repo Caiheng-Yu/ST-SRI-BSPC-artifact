@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code-only artifact, please cite the repository tag used."
+title: "ST-SRI BSPC code-only artifact"
+version: "2026.09.04"
+date-released: 2026-09-04
+type: software
+abstract: "Original code and deterministic protocol definitions for the ST-SRI BSPC revision audit. NinaPro DB2 data, checkpoints, and data-derived payloads are excluded."
+repository-code: "https://github.com/Caiheng-Yu/ST-SRI"
+license: MIT
+authors:
+  - family-names: Yu
+    given-names: Caiheng
