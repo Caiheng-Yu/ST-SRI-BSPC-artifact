@@ -19,14 +19,14 @@
   "human_payload_review_required": false,
   "included_result_files": 0,
   "ninapro_data_terms": "not_applicable_to_included_files; official_route_required_for_users",
-  "public_repository_url": null,
+  "public_repository_url": "https://github.com/Caiheng-Yu/ST-SRI-BSPC-artifact",
   "release_scope": "original_code_only",
-  "release_tag": null,
+  "release_tag": "v2026.09.04-code-only-final",
   "restricted_inputs_included": false,
   "schema_version": "bspc-public-candidate-v1",
   "source": "reproducibility_archive_20260901",
   "source_repository_commit": "3f8e3d021ed041bee144e6c9206110cf1f5e7bcb",
-  "source_repository_status": "public_remote_repository_with_mit_license; separate_code_only_artifact_repository_pending",
+  "source_repository_status": "public_remote_repository_with_mit_license; code_only_artifact_published_in_dedicated_repository",
   "source_repository_url": "https://github.com/Caiheng-Yu/ST-SRI",
-  "status": "prepared_code_only_artifact_pending_deposit"
+  "status": "published_code_only_artifact"
 }

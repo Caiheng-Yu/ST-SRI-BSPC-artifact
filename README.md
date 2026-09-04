@@ -1,6 +1,6 @@
 # ST-SRI BSPC code-only artifact
 
-Status: prepared for deposit in a dedicated public code-only repository.
+Status: published as a public code-only repository.
 Target journal: Biomedical Signal Processing and Control (BSPC).
 Release scope: original project code only.
 
@@ -23,13 +23,16 @@ https://ninapro.hevs.ch/instructions/DB2.html
 
 The related project repository is:
 https://github.com/Caiheng-Yu/ST-SRI
-It is the project source repository. This package is a separate code-only
-artifact and must be published from a dedicated repository or release.
+It is the project source repository. The public code-only artifact is
+published separately at:
+https://github.com/Caiheng-Yu/ST-SRI-BSPC-artifact
+The fixed release tag is `v2026.09.04-code-only-final`.
 
 The public candidate contains no NinaPro-derived payload. No NinaPro data
 licence is asserted here. See `metadata/` for the code-only release status,
 provenance notes, citation metadata, and generated file manifest.
 
-Before citing a deposited copy, use the repository tag and SHA-256 manifest
-for that copy. The code-only package does not reproduce historical checkpoint
-inference because checkpoints and signal-derived payloads are excluded.
+Cite the fixed repository tag and use the SHA-256 manifest for the ZIP when
+verifying a copy. The code-only package does not reproduce historical
+checkpoint inference because checkpoints and signal-derived payloads are
+excluded.

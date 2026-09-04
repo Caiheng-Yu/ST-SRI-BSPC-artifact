@@ -1,7 +1,11 @@
-# Public candidate build receipt
+# Public code-only release receipt
 
 Built UTC: 2026-09-04T07:14:33.632499+00:00
 Included result text files: 0
 Excluded result files: 2203
 
-This is a provisional local candidate. It excludes restricted data and binary result payloads; review the public file list before deposition.
+The fixed public repository is:
+https://github.com/Caiheng-Yu/ST-SRI-BSPC-artifact
+
+The fixed release tag is `v2026.09.04-code-only-final`. The package excludes
+restricted data and binary result payloads.

@@ -34,5 +34,12 @@ Project source repository:
 https://github.com/Caiheng-Yu/ST-SRI
 
 The source repository commit containing the MIT file is recorded in
-`metadata/PUBLIC_CANDIDATE_BUILD.json`. The code-only artifact still requires
-a separate public repository and immutable release tag.
+`metadata/PUBLIC_CANDIDATE_BUILD.json`.
+
+Public code-only artifact repository:
+
+https://github.com/Caiheng-Yu/ST-SRI-BSPC-artifact
+
+Fixed release tag: `v2026.09.04-code-only-final`.
+No DOI has been assigned. The ZIP SHA-256 is recorded alongside the ZIP in
+the project workspace.
